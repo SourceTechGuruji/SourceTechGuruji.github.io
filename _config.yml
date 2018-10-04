@@ -2,7 +2,7 @@
 baseurl: "/"
 url: "https://sourceguruji.online"
 title: SourceGuruji # site's title
-description: "Programmin" # used by search engines
+description: "Programming" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
