@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://sourceguruji.online"
-title: SourceGuruji Online # site's title
+title: SourceGuruji # site's title
 description: "Programmin" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: SourceGuruji Online # blog's title
+  title: SourceGuruji # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
