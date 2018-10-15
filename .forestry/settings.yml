@@ -15,6 +15,8 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+  templates:
+  - mytheme
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
