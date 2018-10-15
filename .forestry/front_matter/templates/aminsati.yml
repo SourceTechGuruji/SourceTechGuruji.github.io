@@ -17,4 +17,4 @@ fields:
     max: '10'
     min: '5'
 pages:
-- _posts/test-post.md
+- _posts/2018-10-15-test-post.md
