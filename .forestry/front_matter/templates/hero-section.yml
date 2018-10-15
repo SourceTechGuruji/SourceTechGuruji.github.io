@@ -28,4 +28,4 @@ fields:
   name: textarea_field
   description: provide the brief description of the page
 pages:
-- _posts/this-is-example.md
+- _posts/2018-10-15-this-is-example.md
