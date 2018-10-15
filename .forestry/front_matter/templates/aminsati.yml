@@ -24,4 +24,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/test-page.md
+- _posts/2018-10-15-test-page.md
