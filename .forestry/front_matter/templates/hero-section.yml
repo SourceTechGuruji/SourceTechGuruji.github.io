@@ -26,3 +26,5 @@ fields:
   config:
     maxSize: '300'
   default: "/uploads/breakfast-1804457_640.jpg"
+pages:
+- _posts/c-projects.md
