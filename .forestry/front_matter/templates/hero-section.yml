@@ -27,5 +27,3 @@ fields:
   label: Description
   name: textarea_field
   description: provide the brief description of the page
-pages:
-- _posts/c-projects.md
