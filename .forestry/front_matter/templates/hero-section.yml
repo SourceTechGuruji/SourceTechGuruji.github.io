@@ -15,10 +15,6 @@ fields:
   config:
     date_format: DD/MM/YYYY
     time_format: h:mm A
-- type: textarea
-  label: Description
-  name: textarea_field
-  description: provide the brief description of the page
 - type: file
   label: Banner
   name: image/file_upload_field
@@ -26,5 +22,9 @@ fields:
   config:
     maxSize: '300'
   default: "/uploads/breakfast-1804457_640.jpg"
+- type: textarea
+  label: Description
+  name: textarea_field
+  description: provide the brief description of the page
 pages:
 - _posts/c-projects.md
