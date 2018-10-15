@@ -22,3 +22,5 @@ fields:
   description: this is example
   config:
     required: true
+pages:
+- _posts/test-page.md
