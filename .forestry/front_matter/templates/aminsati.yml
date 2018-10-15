@@ -16,5 +16,11 @@ fields:
   config:
     max: '10'
     min: '5'
+- type: text
+  name: Test_Page
+  label: post
+  description: this is example
+  config:
+    required: true
 pages:
 - _posts/2018-10-15-test-post.md
