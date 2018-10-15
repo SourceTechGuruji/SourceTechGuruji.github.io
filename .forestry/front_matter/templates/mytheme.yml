@@ -17,4 +17,4 @@ fields:
   label: Post
   default: "/uploads/40622711_1677842005675254_1920267336737095680_o.jpg"
 pages:
-- _posts/my-page.md
+- _posts/2018-10-15-my-page.md
