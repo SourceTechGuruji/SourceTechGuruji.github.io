@@ -22,5 +22,3 @@ fields:
   description: this is example
   config:
     required: true
-pages:
-- _posts/2018-10-15-test-post.md
