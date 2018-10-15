@@ -1,0 +1,28 @@
+---
+label: Hero Section
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: text_field
+  description: the title of the page
+  config:
+    required: true
+- type: datetime
+  name: publish_date
+  label: Publish Date
+  config:
+    date_format: DD/MM/YYYY
+    time_format: h:mm A
+- type: textarea
+  label: Description
+  name: textarea_field
+  description: provide the brief description of the page
+- type: file
+  label: Banner
+  name: image/file_upload_field
+  description: banner for the page hero
+  config:
+    maxSize: '300'
+  default: "/uploads/breakfast-1804457_640.jpg"
