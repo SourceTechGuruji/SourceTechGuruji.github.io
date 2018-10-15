@@ -10,3 +10,5 @@ fields:
   default:
   - "/uploads/sdsf.png"
   - "/uploads/sdsdf.png"
+pages:
+- _posts/amin.md
