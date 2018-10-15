@@ -1,0 +1,18 @@
+---
+label: MYTheme
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Post
+- type: text
+  name: post
+  label: Post
+- type: datetime
+  name: posts
+  label: Posts
+  default: 2018-10-14 18:30:00 +0000
+- type: file
+  name: post
+  label: Post
+  default: "/uploads/40622711_1677842005675254_1920267336737095680_o.jpg"
