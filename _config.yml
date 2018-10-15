@@ -22,28 +22,28 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "amin@sourceguruji.online"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "sourceguruji"
   flickr:
   gitlab:
   github: "aminsati12"
-  google_plus:
-  instagram:
+  google_plus: "102478700457736168564"
+  instagram: "sourceguruji"
   keybase:
-  linkedin:  # Full URL
-  pinterest:
+  linkedin:  "source-guruji-239697145"
+  pinterest: "sourceguruji"
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "sourceguruji"
   vimeo:
-  wordpress:
-  youtube:
+  wordpress: "sourceguruji"
+  youtube: "sourceguruji"
   
   # Sharing options
   share_buttons:
