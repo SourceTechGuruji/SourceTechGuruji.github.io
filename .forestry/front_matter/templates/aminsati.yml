@@ -1,0 +1,12 @@
+---
+label: AminSati
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  name: this_is_demo
+  label: post
+  description: This is Example
+  default:
+  - "/uploads/sdsf.png"
+  - "/uploads/sdsdf.png"
