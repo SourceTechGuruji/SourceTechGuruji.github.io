@@ -8,3 +8,5 @@ tags:
   - Ipsum
 excerpt_separator: <!--more-->
 ---
+
+This is Example Page Post
