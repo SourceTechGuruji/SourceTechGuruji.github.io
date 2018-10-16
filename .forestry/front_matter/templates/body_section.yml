@@ -1,0 +1,13 @@
+---
+label: Body_Section
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: body_test
+  label: Body Test
+- type: file
+  default: "/uploads/breakfast-1804457_640.jpg"
+- type: textarea
+  name: body_area
+  label: Body Area
