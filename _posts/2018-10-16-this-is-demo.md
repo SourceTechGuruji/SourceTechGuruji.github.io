@@ -1,36 +1,40 @@
 ---
 layout: post
 title: This is Demo
-tags:
-  - A Tag
-  - Test
-  - Lorem
-  - Ipsum
-  - Markdown
-  - Customization
-  - code
-  - kramdown
-  - toc.js
-  - Portfolio
-excerpt_separator: what is use for this
+tags: [Test, Markdown]
 ---
 
-Jekyll supports the use of Markdown with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
 Tables have also been extended from Markdown:
 
-First HeaderSecond Header
-
-Content CellContent Cell
-
-Content CellContent Cell
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 Here's an example of an image, which is included using Markdown:
 
+![Image of a glass on a book]({{ site.baseurl }}/assets/img/pexels/book-glass.jpeg)
+
 Highlighting for code in Jekyll is done using Base16 or Rouge. This theme makes use of Rouge by default.
 
-// count to ten for (var i = 1; i &lt;= 10; i++) { console.log(i); } // count to twenty var j = 0; while (j &lt; 20) { j++; console.log(j); }
+{% highlight js %}
+// count to ten
+for (var i = 1; i <= 10; i++) {
+    console.log(i);
+}
 
-Type on Strap uses KaTeX to display maths. Equations such as can be displayed inline.
+// count to twenty
+var j = 0;
+while (j < 20) {
+    j++;
+    console.log(j);
+}
+{% endhighlight %}
+
+Type on Strap uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
 
 Alternatively, they can be shown on a new line:
+
+$$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
