@@ -7,7 +7,7 @@ fields:
   name: body_test
   label: Body Test
 - type: file
-  default: "/uploads/breakfast-1804457_640.jpg"
+  default: "/uploads/123.jpg"
 - type: textarea
   name: body_area
   label: Body Area
