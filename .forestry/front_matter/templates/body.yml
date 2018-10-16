@@ -1,0 +1,18 @@
+---
+label: Body
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: title_post
+  label: Title Post
+- type: file
+  default: "/123.jpg"
+  label: Thumbnail
+  name: thumbnail
+- type: textarea
+  name: description_post
+  label: Description Post
+- type: blocks
+  label: Blocks
+  name: blocks
