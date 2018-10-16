@@ -10,3 +10,5 @@ fields:
 - type: textarea
   name: descriptiuon
   label: Descriptiuon
+pages:
+- _posts/aaaa.md
