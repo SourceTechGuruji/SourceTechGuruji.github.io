@@ -1,7 +1,7 @@
 ---
 label: Body
 hide_body: false
-is_partial: true
+is_partial: false
 fields:
 - type: text
   name: title_post
