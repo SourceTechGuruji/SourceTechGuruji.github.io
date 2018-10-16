@@ -2,6 +2,7 @@
 label: Body_Section
 hide_body: false
 is_partial: true
+display_field: body_area
 fields:
 - type: text
   name: body_test
