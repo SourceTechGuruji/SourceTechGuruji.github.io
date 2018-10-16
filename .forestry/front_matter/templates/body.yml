@@ -14,8 +14,11 @@ fields:
   name: description_post
   label: Description Post
 - type: blocks
-  label: Blocks
-  name: blocks
+  label: test
+  name: test
+  description: test
+  template_types:
+  - body-section
 pages:
 - _posts/bfhngf.md
 - _posts/2018-10-16-c-new-post.md
