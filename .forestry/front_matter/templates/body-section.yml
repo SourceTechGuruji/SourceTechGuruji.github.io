@@ -1,0 +1,12 @@
+---
+label: Body section
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  default: "/breakfast-1804457_640.jpg"
+  label: Thumbnail Block
+  name: thumbnail_block
+- type: textarea
+  name: descriptiuon
+  label: Descriptiuon
