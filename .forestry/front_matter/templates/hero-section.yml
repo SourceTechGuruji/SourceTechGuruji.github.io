@@ -28,5 +28,5 @@ fields:
   name: textarea_field
   description: provide the brief description of the page
 pages:
-- _posts/2018-10-15-this-is-example.md
+- _posts/sadasd.md
 - projects.md
