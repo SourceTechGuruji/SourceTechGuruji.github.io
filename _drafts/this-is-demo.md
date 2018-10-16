@@ -6,5 +6,7 @@ tags:
   - Test
   - Lorem
   - Ipsum
-excerpt_separator: <!--more-->
+excerpt_separator: what is use for this
 ---
+
+Amin H Sati
