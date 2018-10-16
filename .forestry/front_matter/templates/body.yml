@@ -16,3 +16,5 @@ fields:
 - type: blocks
   label: Blocks
   name: blocks
+pages:
+- _posts/c-new-post.md
