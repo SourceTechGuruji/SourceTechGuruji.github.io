@@ -1,0 +1,16 @@
+---
+label: testing
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: test_filed
+  label: test filed
+- type: file
+  default: "/123.jpg"
+- type: textarea
+  name: demoarea
+  label: demoAREA
+- type: tag_list
+  name: testtags
+  label: TESTTAGS
