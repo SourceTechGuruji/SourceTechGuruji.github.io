@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SourceGuruji | About Us
+title: About Us
 permalink: /about/
 feature-img: assets/img/pexels/about2.jpg
 tags:
