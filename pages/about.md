@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-feature-img: assets/img/pexels/about2.jpg
+feature-img: assets/img/pexels/about1.jpg
 tags:
   - About
   - Archive
