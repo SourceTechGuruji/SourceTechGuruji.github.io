@@ -6,9 +6,8 @@ feature-img: assets/img/pexels/circuit.jpeg
 tags:
   - About
   - Archive
+  - services
 ---
-
-&nbsp;
 
 SourceGuruji : Takes a personal approach to redefine client’s expectations, taking ideas and turning them into tangible visual results.
 
@@ -24,7 +23,7 @@ We have already taken peoples ideas and turned them into tangible, working resul
 
 ## **Our Mission:**
 
-Our mission starts with a strategic road-map which is everlasting. It &nbsp;emphasizes &nbsp;our company’s &nbsp;goal &nbsp;to achieve the standard and success which stands against our actions and decisions
+Our mission starts with a strategic road-map which is everlasting. It  emphasizes  our company’s  goal  to achieve the standard and success which stands against our actions and decisions
 
 Innovation
 
@@ -40,22 +39,22 @@ Incorporate values, which makes difference
 
 Giving optimistic suggestion to our clients based on their business.
 
-SourceGuruji: is a website and Software development company.Today &nbsp;Web-site is a vital piece of your marketing and branding efforts. Zest helps, grow your bottom-line by developing a well designed and &nbsp;properly functioning software.
+SourceGuruji: is a website and Software development company.Today  Web-site is a vital piece of your marketing and branding efforts. Zest helps, grow your bottom-line by developing a well designed and  properly functioning software.
 
 ## **Our Vision:**
 
-Our vision is ” To be recognized as a worldwide leader in excellence of the 21st &nbsp;century ” &nbsp;through innovation and modern technology and by providing customizable, user-friendly web-development and software’s scaled from small business needs to &nbsp;large scale industries.
+Our vision is ” To be recognized as a worldwide leader in excellence of the 21st  century ”  through innovation and modern technology and by providing customizable, user-friendly web-development and software’s scaled from small business needs to  large scale industries.
 
 ## **Our Values:**
 
 We live our values
 
-Integrity : &nbsp;We consider integrity as the foundation &nbsp;of our Service
+Integrity :  We consider integrity as the foundation  of our Service
 
-Workforce &nbsp;Diversity : We emphasize on workforce diversity to be different in some way.
+Workforce  Diversity : We emphasize on workforce diversity to be different in some way.
 
 Honesty : We believe honesty as the stepping stone of Client relationship
 
-Resilience : We can &nbsp;withstand &nbsp;any level of stress.
+Resilience : We can  withstand  any level of stress.
 
 Quality : We are very conscious and always stress to give Quality to our Clients.
