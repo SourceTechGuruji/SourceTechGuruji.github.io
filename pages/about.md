@@ -2,7 +2,7 @@
 layout: page
 title: SourceGuruji | About Us
 permalink: /about/
-feature-img: assets/img/pexels/circuit.jpeg
+feature-img: assets/img/pexels/about2.jpg
 tags:
   - About
   - Archive
